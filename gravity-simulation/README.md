@@ -1,3 +1,5 @@
+**Note:** This simulation was developed on macOS (Apple Silicon) using Homebrew. The CMake configuration is set for this environment but can be easily adapted for Windows/Linux.
+
 Hierarchical N-Body Gravity Simulation
 
 Overview
